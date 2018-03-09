@@ -2,4 +2,5 @@
 Test repozitorij za prvi tutorijal OOAD.
 
 Irhad Omanović 1. član tima
-Faruk Šehić ponovac
+Faruk Šehić 2. član tima
+Amir Sijah 3. član tima
