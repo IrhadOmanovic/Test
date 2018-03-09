@@ -1,1 +1,5 @@
 Oman je oman.
+
+git remote add origin (web adresa repos-a)   //dodaje remote
+git remote -v   //prikazuje listu svih povezanih remote-a
+git remote rm (ime remote-a)   //brise remote zadan parametrom
